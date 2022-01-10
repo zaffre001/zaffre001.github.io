@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[zaffre-log]]></title><description><![CDATA[zaffre-log]]></description><link>https://zaffre001.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 07 Jan 2022 13:05:25 GMT</lastBuildDate><item><title><![CDATA[test]]></title><description><![CDATA[test]]></description><link>https://zaffre001.github.io/memo/test/</link><guid isPermaLink="false">https://zaffre001.github.io/memo/test/</guid><pubDate>Fri, 07 Jan 2022 21:01:09 GMT</pubDate><content:encoded>&lt;p&gt;test&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[Your name Thank you for reading my resume. If you want to contact me, Please send me an email.]]></description><link>https://zaffre001.github.io/resume-en/</link><guid isPermaLink="false">https://zaffre001.github.io/resume-en/</guid><pubDate>Sun, 27 Jan 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;your-name&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#your-name&quot; aria-label=&quot;your name permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Your name&lt;/h1&gt;
-&lt;div align=&quot;center&quot;&gt;
-&lt;p&gt;&lt;em&gt;Thank you for reading my resume. If you want to contact me, Please send me an email.&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[zaffre-log]]></title><description><![CDATA[zaffre-log]]></description><link>https://zaffre001.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 Jan 2022 15:15:13 GMT</lastBuildDate><item><title><![CDATA[about]]></title><description><![CDATA[박희정 이메일: zaffre001@gmail.com 게임 클라이언트 분야에서 컨텐츠 개발 다양한 관심사를 가지고 있어서 인하우스 툴이나 웹에도 기여]]></description><link>https://zaffre001.github.io/resume-en/</link><guid isPermaLink="false">https://zaffre001.github.io/resume-en/</guid><pubDate>Mon, 10 Jan 2022 11:13:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;박희정&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B0%95%ED%9D%AC%EC%A0%95&quot; aria-label=&quot;박희정 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;박희정&lt;/h1&gt;
+&lt;p&gt;이메일: zaffre001@gmail.com&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;게임 클라이언트 분야에서 컨텐츠 개발&lt;/li&gt;
+&lt;li&gt;다양한 관심사를 가지고 있어서 인하우스 툴이나 웹에도 기여
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+1) 유니티 엔진에 대한 활용 능력&lt;br/&gt;
+2) git, pscm, svn등 형상관리툴에 대한 적응력&lt;br/&gt;
+3) 웹/앱에 대한 조금의 지식 한 스푼&lt;br/&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;hr&gt;
+&lt;style&gt;
+    .section-article{
+        float:left;
+        width:7rem;
+    }
+
+    .section-title{
+        font-weight:bold;
+    }
+
+    .inline {
+        display:inline-block;
+    }
+
+    .right {
+        float:right;
+    }
+
+    section&gt;li{
+        display:block;
+    }
+&lt;/style&gt;
+&lt;br/&gt;
+&lt;div&gt;
+    &lt;div class=&quot;section-article&quot;&gt;경력&lt;/div&gt;
+    &lt;div style=&quot;display:flow-root&quot;&gt;
+        &lt;div class=&quot;section-title inline&quot;&gt;데브캣&lt;/div&gt;
+        &lt;div class=&quot;right inline&quot;&gt;2020.11 ~ 재직중&lt;/div&gt;
+        &lt;li&gt;마비노기 모바일 UX 제작&lt;/li&gt;
+        &lt;hr style=&quot;margin:30px 0 30px 0&quot;/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;div class=&quot;section-article&quot;&gt;&amp;nbsp&lt;/div&gt;
+    &lt;div style=&quot;display:flow-root&quot;&gt;
+        &lt;div class=&quot;section-title inline&quot;&gt;넥슨코리아&lt;/div&gt;
+        &lt;div class=&quot;right inline&quot;&gt;2018.05 ~ 2020.10&lt;/div&gt;
+        &lt;li&gt;마비노기 모바일 UX 제작&lt;/li&gt;
+        &lt;li&gt;이후 데브캣으로 분사&lt;/li&gt;
+        &lt;hr style=&quot;margin:30px 0 30px 0&quot;/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;div class=&quot;section-article&quot;&gt;&amp;nbsp&lt;/div&gt;
+    &lt;div style=&quot;display:flow-root&quot;&gt;
+        &lt;div class=&quot;section-title inline&quot;&gt;넷마블N2&lt;/div&gt;
+        &lt;div class=&quot;right inline&quot;&gt;2015.12 ~ 2018.04&lt;/div&gt;
+        &lt;li&gt;모바일 FPS 개발&lt;/li&gt;
+        &lt;li&gt;라이브 서비스 대응&lt;/li&gt;
+        &lt;li&gt;빌드 머신 유지보수&lt;/li&gt;
+        &lt;hr style=&quot;margin:30px 0 30px 0&quot;/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;div class=&quot;section-article&quot;&gt;&amp;nbsp&lt;/div&gt;
+    &lt;div style=&quot;display:flow-root&quot;&gt;
+        &lt;div class=&quot;section-title inline&quot;&gt;위메이드엔터테인먼트&lt;/div&gt;
+        &lt;div class=&quot;right inline&quot;&gt;2014.11 ~ 2015.10&lt;/div&gt;
+        &lt;li&gt;모바일 수집형 RPG개발&lt;/li&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;hr&gt;
+&lt;br/&gt;
+&lt;div&gt;
+    &lt;div class=&quot;section-article&quot;&gt;학력&lt;/div&gt;
+    &lt;div style=&quot;display:flow-root&quot;&gt;
+        &lt;div class=&quot;section-title inline&quot;&gt;미림마이스터고&lt;/div&gt;
+        &lt;div class=&quot;right inline&quot;&gt;2012.03 ~ 2015.02&lt;/div&gt;
+        &lt;li style=&quot;list-style:none&quot;&gt;인터랙티브미디어학과 졸업&lt;/li&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[2022년을 맞이하며]]></title><description><![CDATA[caption…]]></description><link>https://zaffre001.github.io/memo/2022년을-맞이하며/</link><guid isPermaLink="false">https://zaffre001.github.io/memo/2022년을-맞이하며/</guid><pubDate>Fri, 07 Jan 2022 22:02:25 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/29884594/148551198-423d677e-0d56-4d2d-907e-3340aa2ead12.png&quot; alt=&quot;caption&quot;&gt;&lt;/p&gt;
+&lt;p&gt;sakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnlssakdlksadnsadnls&lt;/p&gt;</content:encoded></item><item><title><![CDATA[test]]></title><description><![CDATA[test]]></description><link>https://zaffre001.github.io/memo/test/</link><guid isPermaLink="false">https://zaffre001.github.io/memo/test/</guid><pubDate>Fri, 07 Jan 2022 21:01:09 GMT</pubDate><content:encoded>&lt;p&gt;test&lt;/p&gt;</content:encoded></item></channel></rss>
