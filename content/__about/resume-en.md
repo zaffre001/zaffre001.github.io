@@ -46,12 +46,20 @@ lang: 'en'
 </style>
 
 <br/>
-
 <div>
     <div class="section-article">경력</div>
     <div style="display:flow-root">
-        <div class="section-title inline">데브캣</div>
+        <div class="section-title inline">데브시스터즈</div>
         <div class="right inline">2020.11 ~ 재직중</div>
+        <li>브릭시티 클라이언트 엔지니어</li>
+        <hr style="margin:30px 0 30px 0"/>
+    </div>
+</div>
+<div>
+    <div class="section-article">&nbsp</div>
+    <div style="display:flow-root">
+        <div class="section-title inline">데브캣</div>
+        <div class="right inline">2020.11 ~ 2022.06</div>
         <li>마비노기 모바일 UX 제작</li>
         <hr style="margin:30px 0 30px 0"/>
     </div>
