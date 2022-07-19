@@ -21,3 +21,5 @@ fields:
 - type: boolean
   name: draft
   label: draft
+pages:
+- content/blog/memo/forestry.md
