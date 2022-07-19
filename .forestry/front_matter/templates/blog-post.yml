@@ -1,0 +1,23 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: category
+  label: category
+- type: field_group
+  name: thumbnail
+  label: thumbnail
+  fields:
+  - type: text
+    name: thumbnailSrc
+    label: thumbnailSrc
+- type: boolean
+  name: draft
+  label: draft
